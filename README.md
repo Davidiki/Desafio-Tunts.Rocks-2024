@@ -19,11 +19,11 @@ Para executar este projeto, você precisa ter instalado o Python 3 e as seguinte
 ## Como usar
 Para usar este projeto, siga os seguintes passos:
 
-1. Faça uma cópia da planilha do Google Sheets que contém os dados dos alunos aqui.
-2. Abra o Google Colab e crie um novo notebook em Python 3.
+1. Faça uma cópia da planilha do Google Sheets que contém os dados dos alunos [aqui](https://docs.google.com/spreadsheets/d/11-IQ3x8gJIg-M6SUprNuQtfdxTLbNO0S5IYfFdtt3I4/edit#gid=195192560).
+2. Abra o Google Colab e crie um novo notebook em Python 3, ou clique [aqui](https://colab.research.google.com/drive/1CuJISC0XalV5TQVBsWyCAXwKZeQGEM1f?usp=sharing).
 3. Copie e cole o código do projeto no notebook.
 4. Execute as células que importam as bibliotecas e autenticam o usuário.
-5. Substitua o URL da planilha pelo URL da sua cópia da planilha.
+5. Substitua o URL da planilha pelo URL da sua cópia da planilha se necessário.
 6. Execute as demais células que leem, processam e escrevem os dados na planilha.
 7. Verifique os resultados na sua cópia da planilha.
 
